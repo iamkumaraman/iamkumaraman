@@ -1,14 +1,10 @@
 # Hi there 👋, It's Aman here...
 
-<!--
-**iamkumaraman/iamkumaraman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Software Engineer with 2.8+ YOE | Full Stack Java Development • GenAI
 
-Here are some ideas to get you started:
--->
-- 🚀 Software Engineer with 2.5+ years of experience | Full Stack Java Development • GenAI
-
-I build reliable backend systems, automation-first platforms, and occasionally LLM-powered tools that ship to production.
-I care about clean system design, ownership, and writing code that scales without drama.
+I build and maintained a highly scalable sprint-boot based Marketplace application in my current role at TCS working for a top finance sector PSU as client.
+I engineer reliable and scalable backend systems, automation-first platforms, and occasionally LLM-powered tools that ship to production.
+I care about clean system design and architecture, ownership, and writing code that is scalable as per requirement.
 
 ## 🧑‍💻 About me
 
@@ -19,11 +15,18 @@ I care about clean system design, ownership, and writing code that scales withou
 
 ## 🛠️ Tech Stack (Focused)
 
-- **Languages**: Go, Java, Python, C/C++
-- **Backend** : REST APIs, Microservices, gRPC
+- **Languages**: Java, C++
+- **Backend** : REST APIs, Microservices
 - **Data** : PostgreSQL, MongoDB, Redis
 - **Infra** : Docker, Kubernetes, Linux
-- **AI** : RAG, Embeddings, Vector Stores, Prompt Engineering
+- **AI** : RAG, Embeddings, LLM, Prompt Engineering
+
+## 🎓 Education
+
+- B.Tech — Computer Science & Engineering
+- Bihar Engineering University, Patna
+- 📅 September 2019 – August 2023
+  
 
 ## 🌐 Connect With Me
 - 🌍 Portfolio: https://amanportfolio.github.io/portfolio/
@@ -35,6 +38,11 @@ I care about clean system design, ownership, and writing code that scales withou
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
