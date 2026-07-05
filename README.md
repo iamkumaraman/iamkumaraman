@@ -12,7 +12,10 @@ I care about clean system design, ownership, and writing code that scales withou
 
 ## 🧑‍💻 About me
 
-- 🔭 I’m currently working on ... myself
+- 💼 Software Engineer @ Tata Consultancy Services — Oct 2023 – Present
+- 🧠 Working on automation powered BFSI domain products
+- 🌱 Strong focus on performance, scalability, and clean architecture
+- ⚡ Experience with BFSI Domain, E-commerce and Real-time scalable systems
 
 ## 🛠️ Tech Stack (Focused)
 
